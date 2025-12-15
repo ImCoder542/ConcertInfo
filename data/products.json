@@ -1,14 +1,15 @@
 [
   {
-    "id": "subwoofer1",
-    "name": "Active Subwoofer PRO 18”",
+    "id": "mis1",
+    "name": "Цифровой микшерный пульт AFDM-024",
     "price": 1499,
     "images": [
-      "images/subwoofer/sub1.jpg",
-      "images/subwoofer/sub2.jpg"
+      "images/mis/afdm024_img1.webp",
+      "images/mis/afdm024_img2.webp",
+      "images/mis/afdm024_img3.webp"
     ],
     "importance": 1,
-    "type": "Subwoofer",
+    "type": "AFDM-024",
     "link": "product.html"
   }
 ]
