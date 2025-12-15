@@ -1,14 +1,14 @@
 [
-    {
-        "id": "subwoofer1",
-        "name": "Active Subwoofer PRO 18",
-        "price": "1499",
-        "images": [
-            "images/subwoofer/sub1.jpg",
-            "images/subwoofer/sub2.jpg"
-        ],
-        "importance": 1,
-        "type": "Subwoofer",
-        "link": "product.html"
-    }
+  {
+    "id": "subwoofer1",
+    "name": "Active Subwoofer PRO 18”",
+    "price": 1499,
+    "images": [
+      "images/subwoofer/sub1.jpg",
+      "images/subwoofer/sub2.jpg"
+    ],
+    "importance": 1,
+    "type": "Subwoofer",
+    "link": "product.html"
+  }
 ]
